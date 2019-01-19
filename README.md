@@ -36,6 +36,11 @@ Python base content management system (cms) using Django admin.
   <em>room reservation</em> <br/> <br/>
   <img src='screenshot/3.png' height='300px'> <br/>
   <em>eg. responsive design</em> 
+  <style>
+    em {
+      font-size: 0.7rem;
+    }
+  </style>
 </p>
 
 ## Inspiration
@@ -45,11 +50,6 @@ Python base content management system (cms) using Django admin.
 - http://www.onceagainhostel.com
 - http://hmdasia.ib2hosting.com
 
-<style>
-  em {
-    font-size: 0.7rem;
-  }
-</style>
 <!-- ![][img1] -->
 
 [img1]: screenshot/1.png
