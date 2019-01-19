@@ -1,31 +1,58 @@
-# LoftelGroup mockup website
+# Loftel Group <em>mockup website</em>
 
-## Project setup
+This project is fullstack website of Loftel hostel-hotel group in Thailand.
+<br/> <br/>
+<img src='screenshot/map.jpg'>
+<br/> <br/>
 
-```
-yarn install
-```
+### Frontend
 
-### Compiles and hot-reloads for development
+Using responsive design that support from mobile to PC.
 
-```
-yarn run serve
-```
+- [Vue.js](https://vuejs.org)
+  - [Bulma](https://bulma.io)
+  - [Buefy](https://buefy.github.io)
+  - [Pug](https://pugjs.org)
 
-### Compiles and minifies for production
+### Backend
 
-```
-yarn run build
-```
+Python base content management system (cms) using Django admin.
 
-### Run your tests
+- [Django](https://www.djangoproject.com/)
+  - [admin](https://docs.djangoproject.com/en/2.1/ref/contrib/admin/)
 
-```
-yarn run test
-```
+<br/>
 
-### Lints and fixes files
+## Screen shot
 
-```
-yarn run lint
-```
+<p align="center">
+  <img src='screenshot/1.png'>
+  <em>home page for select multi hotel</em>
+  <img src='screenshot/2.png'>
+  <em>infomation about hotel</em>
+  <img src='screenshot/4.png'>
+  <em>room list</em> <br/>
+  <img src='screenshot/5.png'>
+  <em>room reservation</em> <br/> <br/>
+  <img src='screenshot/3.png' height='300px'> <br/>
+  <em>eg. responsive design</em> 
+</p>
+
+## Inspiration
+
+- http://liveituphostel.com
+- http://www.smorehotel.com
+- http://www.onceagainhostel.com
+- http://hmdasia.ib2hosting.com
+
+<style>
+  em {
+    font-size: 0.7rem;
+  }
+</style>
+<!-- ![][img1] -->
+
+[img1]: screenshot/1.png
+[img2]: screenshot/2.png
+[img3]: screenshot/3.png
+[img4]: screenshot/4.png
